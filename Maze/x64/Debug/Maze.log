@@ -1,0 +1,29 @@
+﻿  Maze.cpp
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(123,30): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(126,27): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(126,39): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(128,4): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(130,32): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(130,44): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(132,4): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(134,32): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(134,48): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(136,4): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(138,32): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(138,48): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(140,4): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(165,7): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(165,35): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(172,12): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(172,24): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(175,9): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(175,21): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(197,12): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(197,24): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(201,9): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(201,21): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(216,12): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(216,24): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(221,9): error C2065: position: необъявленный идентификатор
+C:\Users\lolim\Desktop\C++\Maze\Maze.cpp(221,21): error C2065: position: необъявленный идентификатор
